@@ -2,6 +2,16 @@
 
 Я **Сергей Жуков,** DevOps-инженер.
 
+### Вот, что я умею
+
+### Сертификаты Нетологии
+
+<details>
+    <summary> GIT </summary>
+    <img src="./images/Git.jpeg" />
+</details>
+
+
 <!--
 **beatljs/beatljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
