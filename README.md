@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет!
+
+Я **Сергей Жуков,** DevOps-инженер.
 
 <!--
 **beatljs/beatljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
