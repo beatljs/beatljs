@@ -1,10 +1,21 @@
 ## Привет!
-
 Я **Сергей Жуков,** DevOps-инженер.
+### Мой стек
+Linux, Windows, Bash, HTML, CSS, JavaScript, jQuery, Git, Ansible, Terraform, Docker, Docker-compose, Kubernetes,   
+CI/CD, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager, 
+
 
 ### Вот, что я умею
 
-### Сертификаты Нетологии
+### Диплом и сертификаты Нетологии
+
+<details>
+    <summary> Диплом о профессиональной переподготовке </summary>
+    <img src="./images/Diplom.jpg" />
+    <img src="./images/Addon.jpg" />
+</details>
+
+<br/>
 
 <details>
     <summary> Вводный модуль специализации DevOps-инженер </summary>
