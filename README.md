@@ -20,7 +20,7 @@
       </div>
     </td>
     <td>  
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200"/>
     </td>
   </tr>
 </table>
