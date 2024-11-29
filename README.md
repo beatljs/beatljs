@@ -19,8 +19,7 @@
         <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
       </div>
     </td>
-    <td align="center">  
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" />
+    <td align="center" width="5%">  
     </td>
     <td align="center">  
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" />
