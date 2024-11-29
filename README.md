@@ -1,4 +1,4 @@
-## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
 <table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
@@ -6,6 +6,7 @@
     <td width="auto">
       <div>
         <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
+        <br>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,12 +28,9 @@
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
     </td>
   </tr>
-</table>
-
-### Мой стек
-<table>
 <tr>
 <td>
+### Мой стек
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
@@ -61,6 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 </div>
+<br>
 Linux, Windows, Bash, HTML, CSS, JavaScript, jQuery, Git, Ansible, Terraform, Docker, Docker-compose, Kubernetes,   
 CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager,
 </td>
