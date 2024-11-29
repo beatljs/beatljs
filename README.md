@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="5%">  
     </td>
-    <td align="center">  
+    <td align="center" width="auto">  
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" />
     </td>
   </tr>
