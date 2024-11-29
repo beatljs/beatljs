@@ -1,7 +1,7 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div>
-  <div style = "display: inline-block; width: 50%;">
+  <div style = "display: inline-block; max-width: 50%;">
     Я **Сергей Жуков,** DevOps-инженер.
     <div id="badges">
       <a href="your-linkedin-URL">
@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
   </div>
   
-  <div style = "display: inline-block; width: 50%;">
+  <div style = "display: inline-block; max-width: 40%;">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
   </div>
 </div>
