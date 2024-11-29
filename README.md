@@ -4,7 +4,7 @@
   <tr>
     <td width="auto">
       <div>
-        <p style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
+        <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
