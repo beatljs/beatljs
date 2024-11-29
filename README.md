@@ -1,6 +1,6 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<table cellpadding="5" cellspacing="0">
+<table cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td>
       <div>
