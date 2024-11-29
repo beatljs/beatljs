@@ -3,8 +3,8 @@
 <table cellpadding="5" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="70%">
-      <div>
-        Я **Сергей Жуков,** DevOps-инженер.
+      <div >
+        <p style="font-size: 16px"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
