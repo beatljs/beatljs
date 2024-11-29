@@ -1,16 +1,7 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### Я **Сергей Жуков** $~~~~~$ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350" right="0"/>
 
-  <div class="layout" style="position: relative; width: 100%">
-   <div class="col1" style="position: absolute; display: inline-block; background: #C7E3E4; left: 0; right 350px;">Колонка 1</div>
-   <div class="col3" style="position: absolute; display: inline-block; background: #ECD5DE; width: 350px; right: 0;">
-     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
-   </div>
-  </div>
-
-
-<table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
+<table cellpadding="0" cellspacing="0" width="100%" style="width: 100%; border: none">
   <tr>
     <td width="auto">
       <div>
@@ -23,7 +14,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
           <a href="https://t.me/BeatlJS">
-            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+            <img src="https://img.shields.io/badge/Telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
           </a>
           <a href="https://wa.me/79056145000">
             <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
