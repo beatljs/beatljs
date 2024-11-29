@@ -30,7 +30,7 @@
 
 <tr>
 
-### Мой стек
+Мой стек
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
@@ -62,14 +62,14 @@
 Linux, Windows, Bash, HTML, CSS, JavaScript, jQuery, Git, Ansible, Terraform, Docker, Docker-compose, Kubernetes,   
 CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager,
 </tr>
-</table>
 
-
+<tr>
 ### Вот, что я умею
 
 - Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
 - 🤔 I’m looking for help with ...
-
+</tr>
+<tr>
 ### Диплом и сертификаты Нетологии 
 
 <details>
@@ -124,7 +124,8 @@ CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager,
     <summary> Итоговый модуль профессии DevOps-инженер </summary>
     <img src="./images/Itog.jpeg" />
 </details>
-
+</tr>
+</table>
 <!--
 **beatljs/beatljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
