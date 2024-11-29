@@ -22,6 +22,9 @@
     <td align="center">  
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" />
     </td>
+    <td align="center">  
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" />
+    </td>
   </tr>
 </table>
 
