@@ -1,5 +1,11 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+  <div class="layout" style="overflow: hidden;">
+   <div class="col3" style="background: #ECD5DE; width: 350px;float: right;">Колонка 3</div>
+   <div class="col1" style="background: #C7E3E4; margin-right: 300px;">Колонка 1</div>
+  </div>
+
+
 <table cellpadding="5" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
