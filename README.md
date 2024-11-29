@@ -1,8 +1,8 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  <div class="layout" style="overflow: hidden; width: 100%">
-   <div class="col3" style="display: inline-block; background: #ECD5DE; width: 350px;float: right;">Колонка 3</div>
-   <div class="col1" style="display: inline-block; background: #C7E3E4; margin-right: 300px;">Колонка 1</div>
+  <div class="layout" style="position: relative; width: 100%">
+   <div class="col1" style="position: absolute; display: inline-block; background: #C7E3E4; left: 0; right 350px;">Колонка 1</div>
+   <div class="col3" style="position: absolute; display: inline-block; background: #ECD5DE; width: 350px; right: 0;">Колонка 3</div>
   </div>
 
 
