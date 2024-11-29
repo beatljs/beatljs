@@ -1,7 +1,7 @@
-## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-<table cellpadding="0" cellspacing="0" width="100%" style="width: 100%; border: 2px solid white">
+<table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
       <div>
@@ -27,7 +27,8 @@
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
     </td>
   </tr>
-</table>
+
+<tr>
 
 ### Мой стек
 <div>
@@ -59,7 +60,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 </div>
 Linux, Windows, Bash, HTML, CSS, JavaScript, jQuery, Git, Ansible, Terraform, Docker, Docker-compose, Kubernetes,   
-CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager, 
+CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager,
+</tr>
+</table>
 
 
 ### Вот, что я умею
