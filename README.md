@@ -1,26 +1,29 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<div>
-  <div style = "display: inline-block; float: left; max-width: 50%;">
-    Я **Сергей Жуков,** DevOps-инженер.
-    <div id="badges">
-      <a href="your-linkedin-URL">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://t.me/BeatlJS">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-      </a>
-      <a href="https://wa.me/79056145000">
-        <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-      </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
-  </div>
-  
-  <div style = "display: inline-block; float: right; max-width: 40%;">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-  </div>
-</div>
+<table cellpadding="5" cellspacing="0">
+  <tr>
+    <td>
+      <div>
+        Я **Сергей Жуков,** DevOps-инженер.
+        <div id="badges">
+          <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+          <a href="https://t.me/BeatlJS">
+            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+          </a>
+          <a href="https://wa.me/79056145000">
+            <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+          </a>
+        </div>
+        <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
+      </div>
+    </td>
+    <td>  
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ### Мой стек
 <div>
