@@ -2,7 +2,7 @@
 
 <table cellpadding="5" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
-    <td width="70%">
+    <td width="auto">
       <div >
         <p style="font-size: 14pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
         <div id="badges">
@@ -19,7 +19,7 @@
         <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
       </div>
     </td>
-    <td align="center" width="5%">  
+    <td align="center" width="auto">  
     </td>
     <td align="center" width="auto">  
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
