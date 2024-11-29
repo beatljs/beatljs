@@ -3,9 +3,12 @@
 <table cellpadding="5" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
-      <div >
+      <div>
         <p style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
         <div id="badges">
+          <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
