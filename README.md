@@ -1,12 +1,16 @@
 ## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+### Я **Сергей Жуков** $~~~~~$ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350" right="0"/>
+
   <div class="layout" style="position: relative; width: 100%">
    <div class="col1" style="position: absolute; display: inline-block; background: #C7E3E4; left: 0; right 350px;">Колонка 1</div>
-   <div class="col3" style="position: absolute; display: inline-block; background: #ECD5DE; width: 350px; right: 0;">Колонка 3</div>
+   <div class="col3" style="position: absolute; display: inline-block; background: #ECD5DE; width: 350px; right: 0;">
+     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
+   </div>
   </div>
 
 
-<table cellpadding="5" cellspacing="0" width="100%" style="width: 100%;">
+<table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
       <div>
