@@ -4,7 +4,7 @@
   <tr>
     <td width="auto">
       <div >
-        <p style="font-size: 14pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
+        <p style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </p>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,8 +18,6 @@
         </div>
         <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
       </div>
-    </td>
-    <td align="center" width="auto">  
     </td>
     <td align="center" width="auto">  
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
