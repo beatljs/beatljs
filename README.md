@@ -8,7 +8,7 @@
         <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
         <br>
         <div> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZoazY1MzZkeWJzcjNlbnE1NHBsajh4ZGtwbGZ4ejg1YmdodHIzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MEXBwPCEfoaVzCNJxc/giphy.gif" width="30px"/> <b> +7 (905) 614-50-00 </b> </div>
-        <div> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <b> <a href="BeatlJS@mail.ru"></a> </b> </div>
+        <div> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <b> <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a> </b> </div>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,7 +24,7 @@
       </div>
     </td>
     <td align="center" width="auto">  
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="350"/>
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="400"/>
     </td>
   </tr>
 </table>
