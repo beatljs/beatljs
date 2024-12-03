@@ -1,14 +1,14 @@
-### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+#### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 
 
 <table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
       <div>
-        <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
+        <div> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
         <br>
-        <div> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1cnp4ODJkOWo0Y293NnpsMDFobjU3OWN6M2gxN3RqYnptNjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4zuMszyEiULul0iq0/giphy.gif" width="30px"/> <b> +7 (905) 614-50-00 </b> </div>
-        <div style="vertical-align: center;"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <b> <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a> </b> </div>
+        <div> <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFmdHR1MXI1amdqMDM0ZGUxZGszcDA3MnBkc3BkZG5jZm40bDEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4WFikGyDobEcKK2aYd/giphy.gif" width="30px"/> <b> +7 (905) 614-50-00 </b> </div>
+        <div> <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <b> <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a> </b> </div>
         <div id="badges">
           <a href="your-linkedin-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
