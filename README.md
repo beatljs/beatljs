@@ -6,9 +6,9 @@
 <br>
 <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
 
-<img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1cnp4ODJkOWo0Y293NnpsMDFobjU3OWN6M2gxN3RqYnptNjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4zuMszyEiULul0iq0/giphy.gif" width="30px"/> $---$ +7 (905) 614-50-00
-$-----$
-<img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> $---$ <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
+&#9742; <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1cnp4ODJkOWo0Y293NnpsMDFobjU3OWN6M2gxN3RqYnptNjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4zuMszyEiULul0iq0/giphy.gif" width="30px"/> &ensp; +7 (905) 614-50-00
+&emsp;
+<img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> &ensp; <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -58,7 +58,7 @@ $-----$
   </tr>
 </table>
 
-### Мой стек
+### 🛠 Мой стек
 <table>
   <tr>
     <td>
@@ -105,7 +105,7 @@ $-----$
 ### Диплом и сертификаты Нетологии 
 
 <details>
-    <summary> Диплом о профессиональной переподготовке </summary>
+    <summary> 📜 &ensp; Диплом о профессиональной переподготовке </summary>
     <img src="./images/Diplom.jpg" />
     <img src="./images/Addon.jpg" />
 </details>
