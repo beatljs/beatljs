@@ -1,6 +1,33 @@
 #### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-
+<div style="display: inline-block;">
+  <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
+  <br>
+  <div> 
+    <div  style="display: inline-block;">
+      <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1cnp4ODJkOWo0Y293NnpsMDFobjU3OWN6M2gxN3RqYnptNjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4zuMszyEiULul0iq0/giphy.gif" width="30px"/>
+    </div>
+    <div style="display: inline-block;">
+      <b style="vertical-align: middle;"> +7 (905) 614-50-00 </b> 
+    </div>
+  </div>
+  <div> <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <b style="vertical-align: middle;"> <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a> </b> </div>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/BeatlJS">
+      <img src="https://img.shields.io/badge/Telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://wa.me/79056145000">
+      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
+</div>
+<div style="display: inline-block;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="400"/>
+</div>
 <table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="auto">
