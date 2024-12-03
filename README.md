@@ -3,12 +3,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600"/>
 </div>
-<br>
+<br/>
 <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
+<br/>
 
-**☎️**  &ensp; +7 (905) 614-50-00
-&emsp;
-**📨📫** &ensp; <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
+### **☎️**  &ensp; +7 (905) 614-50-00 &emsp; **📨📫** &ensp; <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <div id="badges">
   <a href="your-linkedin-URL">
