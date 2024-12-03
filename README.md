@@ -1,16 +1,23 @@
-#### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600"/>
 </div>
-<br/>
-<div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
-<br/>
 
-### **☎️**  &ensp; +7 (905) 614-50-00 &emsp; **📨📫** &ensp; <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
+---
+
+### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+### Я Сергей Жуков, DevOps-инженер
+
+---
+
+### Мои Контакты
+
+### ☎️&ensp;+7 (905) 614-50-00 &emsp; 📨📫&ensp;<a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/сергей-жуков-60a37182">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/BeatlJS">
@@ -21,6 +28,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
+
+---
 
 ### 🛠 Мой стек
 <table>
@@ -61,10 +70,14 @@
   </tr>
 </table>
 
-### Вот, что я умею
+---
+
+### Что я умею делать
 
 - Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
 - 🤔 I’m looking for help with ...
+
+---
 
 ### Диплом и сертификаты Нетологии 
 
@@ -120,6 +133,8 @@
     <summary> 📜 &ensp; Итоговый модуль профессии DevOps-инженер </summary>
     <img src="./images/Itog.jpeg" />
 </details>
+
+---
 
 <!--
 **beatljs/beatljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
