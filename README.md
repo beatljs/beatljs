@@ -5,9 +5,9 @@
 </div>
 <br>
 <div style="font-size: 16pt"> Я <b>Сергей Жуков,</b> DevOps-инженер. </div>
-<br>
 
 #### <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ1cnp4ODJkOWo0Y293NnpsMDFobjU3OWN6M2gxN3RqYnptNjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4zuMszyEiULul0iq0/giphy.gif" width="30px"/> +7 (905) 614-50-00 
+#### <img style="vertical-align: middle;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB0angxaWtrYmpnNHRwMjM4NmNiMXBrb2F3Z3o5dDNqbXU2enEzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QuI2G48pcj20qNHE3f/giphy.gif" width="30px"/> <a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
