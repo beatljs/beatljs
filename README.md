@@ -27,7 +27,7 @@
     <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
   </div>
   <div style="display: inline-block;">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="400"/>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="300"/>
   </div>
 </div>
 <table cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
