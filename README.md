@@ -10,7 +10,7 @@
 ### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 ### Я Сергей Жуков, DevOps-инженер
 
-#### <img src="./images/imresume.jpg" width="40px"/> [Моё резюме](docs/Resume%20%5BDevOps-work%5D.pdf)
+#### <img src="./images/imresume.jpg" width="40px"/> [Моё резюме](./docs/Resume DevOpswork.pdf)
 
 ---
 
