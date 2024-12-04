@@ -10,6 +10,8 @@
 ### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 ### Я Сергей Жуков, DevOps-инженер
 
+#### <img src="./images/imresume.jpg" width="40px"/> [Моё резюме](docs/Resume%20%5BDevOps-work%5D.pdf)
+
 ---
 
 #### Мои Контакты
@@ -17,7 +19,7 @@
 #### ☎️&ensp;+7 (905) 614-50-00 &emsp; 📨📫&ensp;<a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <div id="badges">
-  <a href="linkedin.com/in/сергей-жуков-60a37182">
+  <a href="www.linkedin.com/in/beatljs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/BeatlJS">
@@ -64,8 +66,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
       </div>
       <br>
-      Linux, Windows, Bash, HTML, CSS, JavaScript, jQuery, Git, Ansible, Terraform, Docker, Docker-compose, Kubernetes,   
-      CI/CD, Jenkins, Jira, MySQL, PostgreSQL, ELK, Prometheus, Grafana, Alertmanager,
+      Linux, Windows, Bash, Git, Ansible, GitHub, Terraform, Docker, Docker-compose, Kubernetes, HELM, GitLab,  
+      CI/CD, Jenkins, Jira, MySQL, PostgreSQL, Prometheus, Grafana, ELK,  Alertmanager, HTML, CSS, JavaScript, jQuery
     </td>
   </tr>
 </table>
