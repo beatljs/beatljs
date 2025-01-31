@@ -74,6 +74,7 @@
 
 #### Вот что я умею делать
 
+- Развертывать в облаке кластеры Kubernetes c помощью Gitlab CI/CD, Terraform и Ansible: [Ссылка на дипломную работу](https://gitlab.com/beatljs/netology-diplom/-/blob/de6bbbe3dc2fce41f0b8be284cd8f5f2dbbcceaf/README.md)  
 - Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
 - 🤔 I’m looking for help with ...
 
