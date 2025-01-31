@@ -1,5 +1,5 @@
 
----
+<img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600"/>
@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
 
 ---
 
