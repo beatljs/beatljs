@@ -75,7 +75,7 @@
 #### Вот что я умею делать
 
 - Развертывать в облаке кластеры Kubernetes c помощью Gitlab CI/CD, Terraform и Ansible: [Ссылка на дипломную работу](https://gitlab.com/beatljs/netology-diplom/-/blob/de6bbbe3dc2fce41f0b8be284cd8f5f2dbbcceaf/README.md)  
-- <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>  Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="20" height="20"/>  Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
 - Работать с кластерами Kubernetes: [Ссылка на репозитории с выполненными ДЗ по Kubernrtes](https://github.com/beatljs/homeworks/tree/main/K8s)
 - Работать с Yandex Cloud: [Ссылка на репозитории с выполненными ДЗ по работе c YC](https://github.com/beatljs/homeworks/tree/main/clopro)
 - Работать с CI/CD Gitlab: [Ссылка на решение с выполненными ДЗ по работе c GitLab](https://github.com/beatljs/mnt-homeworks/tree/09-ci-06-gitlab)
