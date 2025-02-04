@@ -18,7 +18,7 @@
 #### ☎️&ensp;+7 (905) 614-50-00 &emsp; 📨📫&ensp;<a href="BeatlJS@mail.ru"> BeatlJS@mail.ru </a>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/beatljs">
+  <a href="https://www.linkedin.com/in/beatljs/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/BeatlJS">
