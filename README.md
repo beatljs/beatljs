@@ -80,7 +80,7 @@
 - <img src="./images/icon_grad_circ.svg" title="Y Cloud" alt="Y Cloud" width="25" height="25"/> &nbsp; Работать с Yandex Cloud: [Ссылка на репозитории с выполненными ДЗ по работе c YC](https://github.com/beatljs/homeworks/tree/main/clopro)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="25" height="25"/> &nbsp; Работать с CI/CD Gitlab: [Ссылка на решение домашнего задания по GitLab](https://github.com/beatljs/mnt-homeworks/tree/09-ci-06-gitlab)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="25" height="25"/> &nbsp; Работать с Grafana: [Ссылка на решение домашнего задания по Grafana](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-03-grafana)
-- <img src="./images/1_elk_stack.png" title="ELK" alt="ELK" width="25"/> &nbsp; Работать с системой сбора логов ELK: [Ссылка на решение домашнего задания по ELK](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-04-elk)  
+- <img src="./images/1_elk_stack.png" title="ELK" alt="ELK" width="25" height="25"/> &nbsp; Работать с системой сбора логов ELK: [Ссылка на решение домашнего задания по ELK](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-04-elk)  
 - 🤔 I’m looking for help with ...
 
 ---
