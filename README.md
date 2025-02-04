@@ -78,7 +78,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="20" height="20"/>  Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
 - Работать с кластерами Kubernetes: [Ссылка на репозитории с выполненными ДЗ по Kubernrtes](https://github.com/beatljs/homeworks/tree/main/K8s)
 - Работать с Yandex Cloud: [Ссылка на репозитории с выполненными ДЗ по работе c YC](https://github.com/beatljs/homeworks/tree/main/clopro)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="25" height="25"/>&nbsp Работать с CI/CD Gitlab: [Ссылка на решение с выполненными ДЗ по работе c GitLab](https://github.com/beatljs/mnt-homeworks/tree/09-ci-06-gitlab)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="25" height="25"/>   Работать с CI/CD Gitlab: [Ссылка на решение с выполненными ДЗ по работе c GitLab](https://github.com/beatljs/mnt-homeworks/tree/09-ci-06-gitlab)
 - 🤔 I’m looking for help with ...
 
 ---
