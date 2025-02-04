@@ -72,7 +72,7 @@
 
 ---
 
-#### Вот что я умею делать
+#### <img src="./images/abilities.png" title="diplom" alt="diplom" width="25" height="25"/> &nbsp; Вот что я умею делать
 
 - <img src="./images/all25.png" title="diplom" alt="diplom" width="25" height="25"/> &nbsp; Развертывать в облаке кластеры K8S c помощью Gitlab CI/CD, Terraform и Ansible: [Ссылка на дипломную работу](https://gitlab.com/beatljs/netology-diplom/-/blob/de6bbbe3dc2fce41f0b8be284cd8f5f2dbbcceaf/README.md)  
 - <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="25" height="25"/> &nbsp; Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
@@ -82,8 +82,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="25" height="25"/> &nbsp; Работать с Grafana: [Ссылка на решение домашнего задания по Grafana](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-03-grafana)
 - <img src="./images/1_elk_stack.png" title="ELK" alt="ELK" width="25" height="25"/> &nbsp; Работать с системой сбора логов ELK: [Ссылка на решение домашнего задания по ELK](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-04-elk)  
 - <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="25" height="25"/> &nbsp; Работать с Ansible: [Ссылка 1](https://github.com/beatljs/mnt-homeworks/tree/main/01) &nbsp; [Ссылка 2](https://github.com/beatljs/mnt-homeworks/tree/02) &nbsp; [Ссылка 3](https://github.com/beatljs/mnt-homeworks/tree/03) &nbsp; [Ссылка 4](https://github.com/beatljs/mnt-homeworks/tree/04) &nbsp; [Ссылка 5](https://github.com/beatljs/mnt-homeworks/tree/05)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="25" height="25"/> &nbsp; Работать с Terraform: [Ссылка 1](https://github.com/beatljs/mnt-homeworks/tree/main/01) &nbsp; [Ссылка 2](https://github.com/beatljs/mnt-homeworks/tree/02) &nbsp; [Ссылка 3](https://github.com/beatljs/mnt-homeworks/tree/03) &nbsp; [Ссылка 4](https://github.com/beatljs/mnt-homeworks/tree/04) &nbsp; [Ссылка 5](https://github.com/beatljs/mnt-homeworks/tree/05)
-- 🤔 I’m looking for help with ...
+- <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="25" height="25"/> &nbsp; Работать с Terraform: [Ссылка 1](https://github.com/beatljs/ter-homeworks/blob/main/01/hw-01.md) &nbsp; [Ссылка 2](https://github.com/beatljs/ter-homeworks/blob/terraform-02/02/hw-02.md) &nbsp; [Ссылка 3](https://github.com/beatljs/ter-homeworks/blob/terraform-03/03/hw-03.md) &nbsp; [Ссылка 4](https://github.com/beatljs/ter-homeworks/blob/terraform-04/04/README.md) &nbsp; [Ссылка 5](https://github.com/beatljs/ter-homeworks/blob/terraform-hw-05-ready/05/hw-05.md)
 
 ---
 
