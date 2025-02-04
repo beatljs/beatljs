@@ -79,7 +79,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes"  alt="Kubernetes" width="25" height="25"/> &nbsp; Работать с кластерами Kubernetes: [Ссылка на репозитории с выполненными ДЗ по Kubernrtes](https://github.com/beatljs/homeworks/tree/main/K8s)
 - <img src="./images/icon_grad_circ.svg" title="Y Cloud" alt="Y Cloud" width="25" height="25"/> &nbsp; Работать с Yandex Cloud: [Ссылка на репозитории с выполненными ДЗ по работе c YC](https://github.com/beatljs/homeworks/tree/main/clopro)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="25" height="25"/> &nbsp; Работать с CI/CD Gitlab: [Ссылка на решение домашнего задания по GitLab](https://github.com/beatljs/mnt-homeworks/tree/09-ci-06-gitlab)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="25" height="25"/> &nbsp; Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="25" height="25"/> &nbsp; Работать с Grafana: [Ссылка на решение домашнего задания по Grafana](https://github.com/beatljs/mnt-homeworks/tree/10-monitoring-03-grafana)
 - 
 - 🤔 I’m looking for help with ...
 
