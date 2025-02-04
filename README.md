@@ -72,7 +72,7 @@
 
 ---
 
-#### <img src="./images/abilities.png" title="diplom" alt="diplom" width="25" height="25"/> &nbsp; Вот что я умею делать
+#### <img src="./images/competence.png" title="diplom" alt="diplom" width="25" height="25"/> &nbsp; Вот что я умею делать
 
 - <img src="./images/all25.png" title="diplom" alt="diplom" width="25" height="25"/> &nbsp; Развертывать в облаке кластеры K8S c помощью Gitlab CI/CD, Terraform и Ansible: [Ссылка на дипломную работу](https://gitlab.com/beatljs/netology-diplom/-/blob/de6bbbe3dc2fce41f0b8be284cd8f5f2dbbcceaf/README.md)  
 - <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="25" height="25"/> &nbsp; Работать с Jenkins: [Ссылка на решение домашнего задания по Jenkis](https://github.com/beatljs/mnt-homeworks/blob/09-ci-04-jenkins/README.md)
