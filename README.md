@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=beatljs&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600"/>
+  <img src="./images/programmer.webp" height="300" width="600"/>
 </div>
 
 ---
@@ -11,6 +11,7 @@
 ### Я Сергей Жуков, DevOps-инженер
 
 #### <img src="./images/imresume.jpg" width="40px"/> [Моё резюме ⦁ CV](https://myresume.ru/resume/Rcs729UOejg/) 
+
 ---
 
 #### Мои Контакты
@@ -142,18 +143,3 @@
 </details>
 
 ---
-
-<!--
-**beatljs/beatljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
